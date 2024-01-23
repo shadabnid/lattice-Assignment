@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "65aec56aa13c3e9bbaa8ac08"
+  },
+  "name": "Hina",
+  "address": "Square 2 Kolkata",
+  "email": "Hina@gmail.com",
+  "phoneNumber": "8765098213",
+  "password": "Hina4125@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec57da13c3e9bbaa8ac0c"
+  },
+  "name": "Vikram",
+  "address": "Circle 4 Hyderabad",
+  "email": "Vikram@gmail.com",
+  "phoneNumber": "9870123456",
+  "password": "Vikram23@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec597a13c3e9bbaa8ac10"
+  },
+  "name": "Neha",
+  "address": "Block 6 Pune",
+  "email": "Neha@gmail.com",
+  "phoneNumber": "7650981234",
+  "password": "Neha7148@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec5b4a13c3e9bbaa8ac14"
+  },
+  "name": "Raj",
+  "address": "Plaza 9 Jaipur",
+  "email": "Raj@gmail.com",
+  "phoneNumber": "8907612345",
+  "password": "Raj1456@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec5c7a13c3e9bbaa8ac18"
+  },
+  "name": "Pooja",
+  "address": "Market 12 Ahmedabad",
+  "email": "Pooja@gmail.com",
+  "phoneNumber": "6789054321",
+  "password": "Pooja34@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec5d7a13c3e9bbaa8ac1c"
+  },
+  "name": "Aryan",
+  "address": "Lane 15 Lucknow",
+  "email": "Aryan@gmail.com",
+  "phoneNumber": "9012345678",
+  "password": "Aryan12@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec5eaa13c3e9bbaa8ac20"
+  },
+  "name": "Simran",
+  "address": "Garden 18 Chandigarh",
+  "email": "Simran@gmail.com",
+  "phoneNumber": "7654321098",
+  "password": "Simran56@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec5faa13c3e9bbaa8ac24"
+  },
+  "name": "Vishal",
+  "address": "Square 21 Bhopal",
+  "email": "Vishal@gmail.com",
+  "phoneNumber": "8901234567",
+  "password": "Vishal78@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec60ea13c3e9bbaa8ac28"
+  },
+  "name": "Hina",
+  "address": "Square 2 Kolkata",
+  "email": "Hina@gmail.com",
+  "phoneNumber": "8765098213",
+  "password": "Hina456@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec621a13c3e9bbaa8ac2c"
+  },
+  "name": "Vikram",
+  "address": "Circle 4 Hyderabad",
+  "email": "Vikram@gmail.com",
+  "phoneNumber": "9870123456",
+  "password": "Vikram234@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec630a13c3e9bbaa8ac30"
+  },
+  "name": "Neha",
+  "address": "Block 6 Pune",
+  "email": "Neha@gmail.com",
+  "phoneNumber": "7650981234",
+  "password": "Neha789@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec64da13c3e9bbaa8ac34"
+  },
+  "name": "Raj",
+  "address": "Plaza 9 Jaipur",
+  "email": "Raj@gmail.com",
+  "phoneNumber": "8907612345",
+  "password": "Raj56147@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec660a13c3e9bbaa8ac38"
+  },
+  "name": "Pooja",
+  "address": "Market 12 Ahmedabad",
+  "email": "Pooja@gmail.com",
+  "phoneNumber": "6789054321",
+  "password": "Pooja345@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec677a13c3e9bbaa8ac3c"
+  },
+  "name": "Aryan",
+  "address": "Lane 15 Lucknow",
+  "email": "Aryan@gmail.com",
+  "phoneNumber": "9012345678",
+  "password": "Aryan123@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec694a13c3e9bbaa8ac40"
+  },
+  "name": "Simran",
+  "address": "Garden 18 Chandigarh",
+  "email": "Simran@gmail.com",
+  "phoneNumber": "7654321098",
+  "password": "Simran567@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec6a4a13c3e9bbaa8ac44"
+  },
+  "name": "Vishal",
+  "address": "Square 21 Bhopal",
+  "email": "Vishal@gmail.com",
+  "phoneNumber": "8901234567",
+  "password": "Vishal789@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec6b6a13c3e9bbaa8ac48"
+  },
+  "name": "Ankit",
+  "address": "Building 30 New Delhi",
+  "email": "ankit@gmail.com",
+  "phoneNumber": "7890123456",
+  "password": "Ankit234@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec6d1a13c3e9bbaa8ac4c"
+  },
+  "name": "Rahul",
+  "address": "Lane 8 Kolkata",
+  "email": "rahul@gmail.com",
+  "phoneNumber": "9012345678",
+  "password": "Rahul678@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec6e0a13c3e9bbaa8ac50"
+  },
+  "name": "Preeti",
+  "address": "Square 15 Bangalore",
+  "email": "preeti@gmail.com",
+  "phoneNumber": "7890123456",
+  "password": "Preeti345@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aec74fffbd91caea9f0f0b"
+  },
+  "name": "Rajat",
+  "address": "Market 22 Hyderabad",
+  "email": "rajat@gmail.com",
+  "phoneNumber": "8901234567",
+  "password": "Rajat567@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af8f7feac0b8ef17dfbe78"
+  },
+  "name": "Rahat",
+  "address": "Market 22 Hyderabad",
+  "email": "rahat@gmail.com",
+  "phoneNumber": "8901234567",
+  "password": "Rajat567@",
+  "photo": "pic",
+  "psychiatristID": {
+    "$oid": "65aeb0ba6463fd8deb855ff7"
+  },
+  "hospitalId": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65aead65a7ef9e92005f0bdf"
+  },
+  "name": "AIIMS - All India Institute Of Medical Science",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aead7fa7ef9e92005f0be1"
+  },
+  "name": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aead90a7ef9e92005f0be3"
+  },
+  "name": "Jawaharlal Nehru Medical College and Hospital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aead9fa7ef9e92005f0be5"
+  },
+  "name": "Apollo Hospitals",
+  "__v": 0
+}]
